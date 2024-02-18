@@ -1,16 +1,29 @@
-### Hi there 👋
+Willkommen zu Matti Krebelder's GitHub! 👋
 
-<!--
-**Matti-Krebelder/Matti-Krebelder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hallo! Mein Name ist Matti Krebelder und ich bin ein leidenschaftlicher Entwickler bei SkynetHub. Willkommen zu meinem GitHub-Repository, wo ich meine Projekte und Codebeispiele teile.
 
-Here are some ideas to get you started:
+Über mich ℹ️
+Ich bin ein erfahrener Entwickler mit Kenntnissen in verschiedenen Programmiersprachen und Technologien. Meine Hauptbereiche umfassen:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript 💻
+PHP 💻
+CSS 💻
+Python 💻
+C# 💻
+Java 💻
+Projekte 🚀
+Hier sind einige meiner herausragenden Projekte:
+
+Projekt 1: [Projektname](Link zum Projekt)
+Beschreibung des Projekts und seiner Bedeutung.
+
+Projekt 2: [Projektname](Link zum Projekt)
+Beschreibung des Projekts und seiner Bedeutung.
+
+Kontakt 📧
+Sie können mich über folgende Kanäle erreichen:
+
+Email: matti.krebelder@skynethub.net ✉️
+LinkedIn: Matti Krebelder 💼
+Website: SkynetHub 🌐
+Fühlen Sie sich frei, meine Arbeit zu erkunden und mich bei Fragen oder Kooperationsmöglichkeiten zu kontaktieren!
