@@ -19,8 +19,11 @@
 
 ###
 
-# 📈Certifications
-![Logo]([https://skynethub.net/Skynethub.net.png](https://skynethub.net/cert.jpg))
+
+# 🏅Certifications
+![Logo](https://skynethub.net/cert.jpg)
+  
+
   
 
 # ⚡Skills
