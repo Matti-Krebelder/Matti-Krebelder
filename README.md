@@ -1,6 +1,6 @@
 
 
-![Logo](https://skynethub.net/Skynethub.net.png)
+![Logo](http://skynethub.net/Skynethub.net.png)
 
 
 # 🚀 About Me
