@@ -4,7 +4,7 @@
 
 
 # 🚀 About Me
- - Owner of [Skynethub.net](https://skynethub.net/)
+ - Owner of [Skynethub.net](http://skynethub.net/)
  - 🌐 Full-stack Developer
  - </> AI developer
 
@@ -12,16 +12,16 @@
 
 # 📈stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matti-krebelder&theme=dracula&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matti-krebelder&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph"  />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=matti-krebelder&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="http://github-readme-stats.vercel.app/api?username=matti-krebelder&theme=dracula&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
+  <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=matti-krebelder&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph"  />
+ <img src="http://github-readme-streak-stats.herokuapp.com/?user=matti-krebelder&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 
 # 🏅Certifications
-![Logo](https://skynethub.net/cert.jpg)
+![Logo](http://skynethub.net/cert.jpg)
   
 
   
