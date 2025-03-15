@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hallo, ich bin [Dein Name]!</h2>
+<h2 align="left">👋 Hallo, ich bin Matti Krebelder!</h2>
 
 ###
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">🚀 Über mich</h3>
 <p align="left">
-  Ich bin ein leidenschaftlicher Frontend-Entwickler aus [Dein Standort], spezialisiert auf moderne Webtechnologien. Mit einem starken Fokus auf Benutzererfahrung und sauberen Code liebe ich es, innovative Lösungen zu entwickeln, die sowohl funktional als auch ästhetisch ansprechend sind.
+  Ich bin ein leidenschaftlicher Fullstack-Entwickler aus Schleswig-Holstein, mit einem starken Fokus auf Backend-Entwicklung und einem großen Interesse an Cybersecurity. Ich liebe es, robuste und sichere Systeme zu entwickeln, die sowohl effizient als auch skalierbar sind.
 </p>
 
 ###
@@ -28,13 +28,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React Logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 Logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js Logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python Logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="Nginx Logo" />
 </div>
 
 ###
@@ -60,6 +62,18 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo" />
   </a>
 </div>
+
+###
+
+<h3 align="left">💼 Projekte</h3>
+<p align="left">
+  Hier sind einige meiner Projekte:
+</p>
+<ul align="left">
+  <li><a href="[Link zu Projekt 1]">Projekt 1: Backend-API für E-Commerce-Plattform</a> - Eine skalierbare REST-API mit Node.js und Express.</li>
+  <li><a href="[Link zu Projekt 2]">Projekt 2: Cybersecurity-Tool für Netzwerkanalyse</a> - Ein Python-basiertes Tool zur Erkennung von Sicherheitslücken.</li>
+  <li><a href="[Link zu Projekt 3]">Projekt 3: Fullstack-Webanwendung mit React und Django</a> - Eine moderne Webanwendung mit Fokus auf Benutzerfreundlichkeit und Sicherheit.</li>
+</ul>
 
 ###
 
