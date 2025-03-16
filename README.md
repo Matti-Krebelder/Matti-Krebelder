@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a passionate **Fullstack Developer** with a strong interest in building scalable and efficient web applications. Currently, I'm diving deep into **Computer Science** and **Cyber Security** through Harvard's CS50 course. I love exploring new technologies and solving complex problems.
+I'm a passionate **Fullstack Developer** with a strong interest in building big data APIs and Machine Learning.
 
 ---
 
