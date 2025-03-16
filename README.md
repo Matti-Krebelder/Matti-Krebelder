@@ -63,7 +63,6 @@ Here are some of the technologies and tools I work with:
 
 ### 📚 Currently Learning
 - **Harvard's CS50**: Deepening my knowledge in Computer Science and Cyber Security.
-- **Advanced Docker & Kubernetes**: Exploring container orchestration and microservices architecture.
 
 ---
 
