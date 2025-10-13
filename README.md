@@ -19,7 +19,7 @@ I'm a passionate **Fullstack Developer** with a strong interest in building big 
 - **[Devsconnect.de](http://devsconnect.de:2000/de/)**  
   A platform connecting developers and fostering collaboration. Working on enhancing its features and scalability.
 
-- **[FSociety00.com/Beta.php](http://fsociety00.com/Beta.php)**  
+- **[FSociety00.com/](http://fsociety00.com/)**  
   **Project Lead** - An advanced cybersecurity and penetration testing platform featuring cutting-edge security tools and educational resources. Currently in Beta phase with innovative features for security professionals and ethical hackers. Leading development of modular security frameworks and vulnerability assessment tools.
 
 ---
