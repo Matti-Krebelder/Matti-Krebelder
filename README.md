@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://fsociety00.com" target="_blank">🔥 FSociety00.com</a> •
-  <a href="mailto:matti@fsociety00.com">📧 Email</a> •
+  <a href="mailto:matti@fsociety00.com">📧 Email</a>
 </p>
 
 ---
