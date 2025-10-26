@@ -2,10 +2,8 @@
 <h3 align="center">Fullstack Developer based in Schleswig-Holstein, Germany</h3>
 
 <p align="center">
-  <a href="http://devsconnect.de:2000/de/" target="_blank">🌐 Devsconnect.de</a> •
   <a href="https://fsociety00.com" target="_blank">🔥 FSociety00.com</a> •
-  <a href="mailto:your-email@example.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">🔗 LinkedIn</a>
+  <a href="mailto:matti@fsociety00.com">📧 Email</a> •
 </p>
 
 ---
